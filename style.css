@@ -689,7 +689,7 @@ p {
 }
 
 h2 {
-    width: 60%;
+    width: 70%;
     margin: auto;
 }
 
@@ -839,7 +839,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
