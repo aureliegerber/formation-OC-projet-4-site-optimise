@@ -87,7 +87,7 @@ a:hover {
     top: 0;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 0;    
 }
 
 .texture-paper::before {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #ffffff;
 }
 
 .d-bloc .a-btn:hover,
@@ -676,8 +676,25 @@ a {
     margin: auto auto auto auto;
 }
 
+/* Change size for the p*/
+
 p {
-    font-size: 11px;
+    font-size: 16px;
+}
+
+/* Change size for the first p and the quote in the section bloc-2-services*/
+
+.text-20 {    
+    font-size: 20px;   
+}
+
+h2 {
+    width: 60%;
+    margin: auto;
+}
+
+.text-light {
+    opacity: 0.8;
 }
 
 .tight-width-whitespace {
@@ -771,15 +788,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C75228;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;    
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C75228;
     color: #FFFFFF!important;
 }
 
