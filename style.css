@@ -676,13 +676,9 @@ a {
     margin: auto auto auto auto;
 }
 
-/* Change size for the p*/
-
 p {
     font-size: 16px;
 }
-
-/* Change size for the first p and the quote in the section bloc-2-services*/
 
 .text-20 {    
     font-size: 20px;   
@@ -691,10 +687,6 @@ p {
 h2 {
     width: 70%;
     margin: auto;
-}
-
-.text-light {
-    opacity: 0.8;
 }
 
 .tight-width-whitespace {
